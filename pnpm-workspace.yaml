@@ -1,0 +1,9 @@
+allowBuilds:
+  '@biomejs/biome': false
+  esbuild: false
+  lefthook: true
+
+autoDedupe: true
+
+lockfile:
+  includeResolutionSettings: true
