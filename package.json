@@ -27,7 +27,7 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "^1.9.4",
-		"@types/node": "^22.10.1",
+		"@types/node": "^26.6.6",
 		"bumpp": "^12.2.2",
 		"happy-dom": "^21.0.4",
 		"lefthook": "^2.1.4",
